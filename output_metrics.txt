@@ -1,0 +1,52 @@
+Metrics for Each Fold:
+
+Fold: 1
+Accuracy: 0.6500
+Precision: 0.8929
+Recall: 0.5814
+F1 Score: 0.7042
+Confusion Matrix:
+[[14  3]
+ [18 25]]
+
+Fold: 2
+Accuracy: 0.6667
+Precision: 0.8438
+Recall: 0.6429
+F1 Score: 0.7297
+Confusion Matrix:
+[[13  5]
+ [15 27]]
+
+Fold: 3
+Accuracy: 0.8644
+Precision: 0.9706
+Recall: 0.8250
+F1 Score: 0.8919
+Confusion Matrix:
+[[18  1]
+ [ 7 33]]
+
+Fold: 4
+Accuracy: 0.8305
+Precision: 0.9688
+Recall: 0.7750
+F1 Score: 0.8611
+Confusion Matrix:
+[[18  1]
+ [ 9 31]]
+
+Fold: 5
+Accuracy: 0.7627
+Precision: 0.8438
+Recall: 0.7500
+F1 Score: 0.7941
+Confusion Matrix:
+[[18  5]
+ [ 9 27]]
+
+Average Metrics Across all Folds:
+Average Accuracy: 0.7549
+Average Precision: 0.9039
+Average Recall: 0.7149
+Average F1 Score: 0.7962
